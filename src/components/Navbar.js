@@ -26,8 +26,8 @@ export default function Navbar() {
               <Link href="/about" className="border-transparent text-gray-500 hover:border-primary-500 hover:text-primary-600 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
                 About
               </Link>
-              <Link href="/blog" className="border-transparent text-gray-500 hover:border-primary-500 hover:text-primary-600 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
-                Blog
+              <Link href="/contact" className="border-transparent text-gray-500 hover:border-primary-500 hover:text-primary-600 inline-flex items-center px-1 pt-1 border-b-2 text-sm font-medium">
+                Contact
               </Link>
             </div>
           </div>
@@ -73,8 +73,8 @@ export default function Navbar() {
             <Link href="/about" className="bg-white text-gray-600 hover:bg-gray-50 hover:text-primary-600 block px-3 py-2 rounded-md text-base font-medium">
               About
             </Link>
-            <Link href="/blog" className="bg-white text-gray-600 hover:bg-gray-50 hover:text-primary-600 block px-3 py-2 rounded-md text-base font-medium">
-              Blog
+            <Link href="/contact" className="bg-white text-gray-600 hover:bg-gray-50 hover:text-primary-600 block px-3 py-2 rounded-md text-base font-medium">
+              Contact
             </Link>
           </div>
           <div className="pt-4 pb-3 border-t border-gray-200">
